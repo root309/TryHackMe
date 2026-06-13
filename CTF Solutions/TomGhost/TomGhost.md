@@ -56,3 +56,6 @@ After successfully gaining root access, we navigated to the /root directory and 
 Bash
 cat /root/root.txt
 # Output: THM{[REDACTED]}
+
+
+**TryHackMe Room Link:** [Tomghost](https://tryhackme.com/room/tomghost)
